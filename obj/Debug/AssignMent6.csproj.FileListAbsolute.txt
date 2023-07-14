@@ -1,0 +1,8 @@
+D:\Raven\Practice Exercise\C#\AssignMent6\bin\Debug\AssignMent6.exe.config
+D:\Raven\Practice Exercise\C#\AssignMent6\bin\Debug\AssignMent6.exe
+D:\Raven\Practice Exercise\C#\AssignMent6\bin\Debug\AssignMent6.pdb
+D:\Raven\Practice Exercise\C#\AssignMent6\obj\Debug\AssignMent6.csproj.AssemblyReference.cache
+D:\Raven\Practice Exercise\C#\AssignMent6\obj\Debug\AssignMent6.csproj.SuggestedBindingRedirects.cache
+D:\Raven\Practice Exercise\C#\AssignMent6\obj\Debug\AssignMent6.csproj.CoreCompileInputs.cache
+D:\Raven\Practice Exercise\C#\AssignMent6\obj\Debug\AssignMent6.exe
+D:\Raven\Practice Exercise\C#\AssignMent6\obj\Debug\AssignMent6.pdb
